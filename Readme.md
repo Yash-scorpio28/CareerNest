@@ -61,19 +61,14 @@ npm run dev
 ```
 
 ## Screenshots
-<img width="1600" height="752" alt="WhatsApp Image 2026-06-22 at 16 50 58" src="https://github.com/user-attachments/assets/c4d73f40-1e3b-4b53-901f-8a79568b24e6" />
-<img width="1600" height="752" alt="WhatsApp Image 2026-06-22 at 16 50 58" src="https://github.com/user-attachments/assets/41594f17-6b97-4309-ad51-b31cf4de7857" />
-<img width="1600" height="752" alt="WhatsApp Image 2026-06-22 at 16 50 58" src="https://github.com/user-attachments/assets/d1e3b0ec-7de5-409f-86b8-196bb0147df1" />
-<img width="1600" height="752" alt="WhatsApp Image 2026-06-22 at 16 50 58" src="https://github.com/user-attachments/assets/2b99e181-ac58-4c5d-ab78-f2f0becf0890" />
-
-
-
-
-
-
+https://drive.google.com/file/d/1mpL7Kfk4It1vEOH1rG09fJiwr1tAUAfL/view?usp=sharing
+https://drive.google.com/file/d/1w5yqWzr6UtckpWzmzveyvVNcspRGe95q/view?usp=drive_link
+https://drive.google.com/file/d/1j3nhfD89lBgGj5LUh1XZYb-ZTHPXh-NY/view?usp=drive_link
+https://drive.google.com/file/d/1TBkU7HfteYanEudOzF34_RtfY2561cZp/view?usp=drive_link
 ## Demo Video
+https://drive.google.com/file/d/1mpL7Kfk4It1vEOH1rG09fJiwr1tAUAfL/view?usp=sharing
 
-(Add your demo link here)
+
 
 ## Future Improvements
 
